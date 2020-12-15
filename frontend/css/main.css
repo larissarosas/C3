@@ -1,0 +1,16 @@
+.jumbotron{
+    background-color: rgb(212, 206, 206);
+}
+
+.form1{
+    margin-top: 50px;
+}
+
+.button{
+    margin-top: 20px;
+}
+
+#mapid { 
+    height: 180%; 
+    margin-top: 50px;
+}
